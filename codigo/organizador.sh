@@ -10,7 +10,7 @@ if [[ $# -ne 1 ]]; then
     exit 1
 fi
 
-# # Capturar el primer argumento ingresado por el usuario
+# Capturar el primer argumento ingresado por el usuario
 DESTINO="$1"
 
 # Comprobar la existencia y accesibilidad del directorio

@@ -1,0 +1,4 @@
+https://www.google.com
+http://google.com
+https://sitio-que-no-existe-123.com
+https://httpstat.us/404

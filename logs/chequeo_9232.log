@@ -1,0 +1,6 @@
+https://www.google.com - Código: 200 (OK)
+http://google.com - Código: 301 (Redirección)
+https://sitio-que-no-existe-123.com - Código: 000 (Fallo de conexión/Timeout)
+https://httpstat.us/404 - Código: 000 (Fallo de conexión/Timeout)
+https://pedco.uncoma.edu.ar/ - Código: 200 (OK)
+https://httpstat.us/500 - Código: 000 (Fallo de conexión/Timeout)
